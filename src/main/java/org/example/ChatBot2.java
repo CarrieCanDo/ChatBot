@@ -141,7 +141,7 @@ public class ChatBot2 {
                 System.out.println("Please, try again.");
             }
         } while (answer != 1);
-        System.out.println("Congratulations, you are correct!");
+        System.out.println("Congratulations, you are so smart!");
     }
 }
 
