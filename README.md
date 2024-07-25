@@ -1,0 +1,1 @@
+Hi, I created two versions of the chatbot (chatbot and chatbot2). The first one is very precise using less code, and the second one has a lot more code with lots of questions but is not as accurate but guesses close to your age. They both greet the user and ask them to repeat their name, count to the number requested, and asks a question about coding. 
